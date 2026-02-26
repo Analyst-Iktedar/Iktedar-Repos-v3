@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Iktedar Ahmed | Data Analyst Portfolio</title>
+</head>
+
+<body style="font-family: Arial; margin: 40px; background-color: #f5f5f5;">
+
+    <h1>Hello, I'm Iktedar Ahmed</h1>
+    <h3>Aspiring Data Analyst</h3>
+
+    <p>
+        I am currently pursuing Google Data Analytics Certification and building
+        real-world projects using Tableau, SQL, and spreadsheets.
+    </p>
+
+    <h2>Projects</h2>
+
+    <ul>
+        <li>HR Analytics Dashboard (Tableau)</li>
+        <li>Cyclistic Case Study</li>
+        <li>Sales Data Analysis</li>
+    </ul>
+
+    <h2>Skills</h2>
+
+    <ul>
+        <li>Data Cleaning</li>
+        <li>Data Visualization (Tableau)</li>
+        <li>SQL</li>
+        <li>Spreadsheet Analysis</li>
+    </ul>
+
+    <h2>Contact</h2>
+
+    <p>Email: your-email@example.com</p>
+
+</body>
+</html>
